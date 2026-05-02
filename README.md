@@ -1,14 +1,12 @@
 # Hi, I'm Shaad 👋
 
-### Python Backend Developer | Django | DRF | PostgreSQL
+### Python Backend Developer | Django | DRF | PostgreSQL | MYSQL | AWS | LINUX
 
 ---
 
 🔭 **Currently working on:** Blog API & E-Commerce API
 
-🌱 **Learning:** Backend Development, DSA, System Design
-
-💼 **Open to Work:** Junior Backend Developer / SDE roles
+💼 **Open to Work:** Backend Developer / SDE roles
 
 📍 **Location:** New Delhi, India
 
