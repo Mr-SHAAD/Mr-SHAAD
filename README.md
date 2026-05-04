@@ -31,7 +31,7 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [Blog API](https://github.com/Mr-SHAAD/blog-api) | REST API for blogging platform | Django, DRF, PostgreSQL, JWT |
-| [E-Commerce API]|() Django, DRF, PostgreSQL |
+| [E-Commerce_API]|(https://github.com/Mr-SHAAD/E-Commerce-API)| Django, DRF, PostgreSQL |
 
 ---
 
