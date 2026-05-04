@@ -4,9 +4,11 @@
 
 ---
 
-🔭 **Currently working on:** Blog API & E-Commerce API
+🚀 Built 2 production-ready REST APIs — Live on Railway
 
-💼 **Open to Work:** Backend Developer / SDE roles
+📦 Blog API | 🛒 E-Commerce API
+
+💼 **Open to Work:** Junior Backend Developer | SDE | Python Developer
 
 📍 **Location:** New Delhi, India
 
@@ -29,7 +31,7 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [Blog API](https://github.com/Mr-SHAAD/blog-api) | REST API for blogging platform | Django, DRF, PostgreSQL, JWT |
-| E-Commerce API | Coming soon... | Django, DRF, PostgreSQL |
+| [E-Commerce API]|() Django, DRF, PostgreSQL |
 
 ---
 
