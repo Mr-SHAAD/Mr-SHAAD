@@ -1,16 +1,13 @@
 # Hi, I'm Shaad 👋
 
-### Python Backend Developer | Django | DRF | PostgreSQL | MYSQL | AWS | LINUX
+### Python Backend Developer | Django | Redis | PostgreSQL | AWS |
 
 ---
 
-🚀 Built 2 production-ready REST APIs — Live on Railway
-
-📦 Blog API | 🛒 E-Commerce API
-
-💼 **Open to Work:** Junior Backend Developer | SDE | Python Developer
-
-📍 **Location:** New Delhi, India
+🔭 Currently working on: DSA + Job Applications
+🌱 Skills: Python, Django, DRF, PostgreSQL, Redis, AWS
+💼 Open to Work: Junior Backend Developer / SDE roles
+📍 Location: New Delhi, India
 
 ---
 
@@ -19,19 +16,20 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
 
 ### 📌 Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Blog API](https://github.com/Mr-SHAAD/blog-api) | REST API for blogging platform | Django, DRF, PostgreSQL, JWT |
-| [E-Commerce_API](https://github.com/Mr-SHAAD/E-Commerce-API)| Django, DRF, PostgreSQL |
+| Project | Description | Tech | Live |
+|---------|-------------|------|------|
+| [Job Portal API](https://github.com/Mr-SHAAD/job-portal-api) | Redis Caching — 10x faster | Django, Redis, PostgreSQL | [Live](YOUR_RENDER_LINK) |
+| [E-Commerce API](https://github.com/Mr-SHAAD/ecommerce-api) | Cart, Orders, Reviews | Django, DRF, PostgreSQL | [Live](https://web-production-746fb.up.railway.app) |
+| [Blog API](https://github.com/Mr-SHAAD/blog-api) | Posts, Comments, Likes | Django, DRF, PostgreSQL | [Live](https://blog-api-production-b09d.up.railway.app) |
 
 ---
 
