@@ -27,9 +27,9 @@
 
 | Project | Description | Tech | Live |
 |---------|-------------|------|------|
-| [Job Portal API](https://github.com/Mr-SHAAD/job-portal-api) | Redis Caching — 10x faster | Django, Redis, PostgreSQL | [Live](YOUR_RENDER_LINK) |
-| [E-Commerce API](https://github.com/Mr-SHAAD/ecommerce-api) | Cart, Orders, Reviews | Django, DRF, PostgreSQL | [Live](https://web-production-746fb.up.railway.app) |
-| [Blog API](https://github.com/Mr-SHAAD/blog-api) | Posts, Comments, Likes | Django, DRF, PostgreSQL | [Live](https://blog-api-production-b09d.up.railway.app) |
+| [Job Portal API](https://github.com/Mr-SHAAD/job-portal-api) | Redis Caching — 10x faster | Django, Redis, PostgreSQL | [Live](https://job-portal-api-with-redis-caching.onrender.com/api/register/) |
+| [E-Commerce API](https://github.com/Mr-SHAAD/ecommerce-api) | Cart, Orders, Reviews | Django, DRF, PostgreSQL | [Live](https://web-production-746fb.up.railway.app/api/register/) |
+| [Blog API](https://github.com/Mr-SHAAD/blog-api) | Posts, Comments, Likes | Django, DRF, PostgreSQL | [Live](https://blog-api-production-b09d.up.railway.app/api/register/) |
 
 ---
 
