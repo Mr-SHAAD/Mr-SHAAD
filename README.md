@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### 🎓 BCA Final Year · Jamia Hamdard, New Delhi
+### 🎓 Computer Science Graduate · Jamia Hamdard, New Delhi
 ### 💼 Open to Work — Backend · Full Stack · DevOps Roles
 ### 📍 New Delhi, India
 
@@ -21,10 +21,10 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **BCA Student** at Jamia Hamdard, New Delhi (2026)
+- 🎓 **Computer Science Graduate** · Jamia Hamdard, New Delhi
 - 🔭 Currently building **Database Schema Visualizer** — SQL → Interactive ER Diagrams
-- 🌱 Learning **React · TypeScript · Node.js · MERN Stack**
-- 💪 Hands-on with **Python · Django · Docker · AWS · Kubernetes · Terraform**
+- 💪 Strong hands-on with **Python · Django · Docker · AWS · Kubernetes · Terraform**
+- ⚡ Strong hands-on with **React · TypeScript · Node.js · MERN Stack**
 - 🚀 Built & deployed **9+ projects** across Backend, DevOps & Full Stack
 - 📫 Reach me at: **iamshaadgour** on all platforms
 
@@ -61,26 +61,26 @@
 
 ### 🚀 Projects
 
-#### 🖥️ Full Stack Projects
+#### 🖥️ Full Stack
 | Project | Description | Tech | Live |
 |---------|-------------|------|------|
-| **Database Schema Visualizer** | SQL → Interactive ER Diagram tool. Import .sql file, visualize, export | React · TypeScript · Node · MongoDB | [🌐 Live](https://database-schema-visualizer-five.vercel.app/) |
+| **Database Schema Visualizer** | SQL → Interactive ER Diagram. Import .sql, visualize, export | React · TypeScript · Node · MongoDB | [🌐 Live](https://database-schema-visualizer-five.vercel.app/) |
 
-#### 🔧 Backend Projects
+#### 🔧 Backend
 | Project | Description | Tech | Live |
 |---------|-------------|------|------|
-| **Job Portal API** | Redis Caching — 10x faster response | Django · Redis · PostgreSQL | [🌐 Live](https://github.com/Mr-SHAAD/job-portal-api_with_Redis-Caching) |
-| **E-Commerce API** | Cart, Orders, Reviews, Payments | Django · DRF · PostgreSQL | [🌐 Live](https://github.com/Mr-SHAAD) |
-| **Blog API** | Posts, Comments, Likes, Auth | Django · DRF · PostgreSQL | [🌐 Live](https://github.com/Mr-SHAAD) |
+| **Job Portal API** | Redis Caching — 10x faster response | Django · Redis · PostgreSQL | [📁 Repo](https://github.com/Mr-SHAAD/job-portal-api_with_Redis-Caching) |
+| **E-Commerce API** | Cart, Orders, Reviews, Payments | Django · DRF · PostgreSQL | [📁 Repo](https://github.com/Mr-SHAAD) |
+| **Blog API** | Posts, Comments, Likes, Auth | Django · DRF · PostgreSQL | [📁 Repo](https://github.com/Mr-SHAAD) |
 
-#### 🚀 DevOps Projects
+#### 🚀 DevOps
 | Project | Description | Tech | Repo |
 |---------|-------------|------|------|
 | **JobPortal DevOps Pipeline** | CI/CD → Docker → Trivy → AWS ECR auto push | Docker · GitHub Actions · AWS ECR | [📁 View](https://github.com/Mr-SHAAD/jobportal-devops-pipeline) |
 | **Infrastructure as Code** | Complete AWS infra — VPC + EC2 + S3 + Subnets | Terraform · AWS · IaC | [📁 View](https://github.com/Mr-SHAAD/jobportal-terraform) |
 | **Kubernetes Production Deploy** | 3-replica app + HPA autoscaling + PostgreSQL StatefulSet | Kubernetes · Minikube · HPA | [📁 View](https://github.com/Mr-SHAAD/k8s-production-deployment) |
 
-#### 🤖 AI Projects
+#### 🤖 AI
 | Project | Description | Tech | Live |
 |---------|-------------|------|------|
 | **TailorTalk AI Agent** | Conversational Google Drive Search using AI | LangChain · Groq · Streamlit | [🌐 Live](https://github.com/Mr-SHAAD/tailortalk) |
@@ -91,14 +91,14 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamshaadgour&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshaadgour&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mr-SHAAD&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-SHAAD&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamshaadgour&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mr-SHAAD&theme=tokyonight)
 
 </div>
 
