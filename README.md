@@ -7,7 +7,7 @@
 <div align="center">
 
 ### 🎓 Computer Science Graduate · Jamia Hamdard, New Delhi
-### 💼 Open to Work — Backend · Full Stack · DevOps Roles
+### 💼 Open to Work — Full Stack Developer · DevOps Roles
 ### 📍 New Delhi, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Shaad-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohammad-shaad-672334204)
@@ -17,18 +17,22 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2hrcGh2eW92b3RxZXp1dDRxZWx5cTRicHBra3RqazVvems2MG5ldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ### 👨‍💻 About Me
 
 - 🎓 **Computer Science Graduate** · Jamia Hamdard, New Delhi
-- 🔭 Currently building **Database Schema Visualizer** — SQL → Interactive ER Diagrams
+- 🔭 Recently built **Database Schema Visualizer** — SQL → Interactive ER Diagrams
 - 💪 Strong hands-on with **Python · Django · Docker · AWS · Kubernetes · Terraform**
 - ⚡ Strong hands-on with **React · TypeScript · Node.js · MERN Stack**
 - 🚀 Built & deployed **9+ projects** across Backend, DevOps & Full Stack
-- 📫 Reach me at: **iamshaadgour** on all platforms
+
+
 
 ---
+
+
+
 
 ### 🛠️ Tech Stack
 
@@ -91,7 +95,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mr-SHAAD&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-SHAAD&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
