@@ -25,7 +25,7 @@
 - 🔭 Recently built **Database Schema Visualizer** — SQL → Interactive ER Diagrams
 - 💪 Strong hands-on with **Python · Django · Docker · AWS · Kubernetes · Terraform**
 - ⚡ Strong hands-on with **React · TypeScript · Node.js · MERN Stack**
-- 🚀 Built & deployed **9+ projects** across Backend, DevOps & Full Stack
+- 🚀 Built & deployed **10+ projects** across Backend, DevOps & Full Stack
 
 
 
