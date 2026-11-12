@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Computer Science Graduate** · Jamia Hamdard, New Delhi
+- 🎓 **Computer Science Graduate** 
 - 🔭 Recently built **Database Schema Visualizer** — SQL → Interactive ER Diagrams
 - 💪 Strong hands-on with **Python · Django · Docker · AWS · Kubernetes · Terraform**
 - ⚡ Strong hands-on with **React · TypeScript · Node.js · MERN Stack**
