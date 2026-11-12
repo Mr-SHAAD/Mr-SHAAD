@@ -6,9 +6,9 @@
 
 <div align="center">
 
-### 🎓 Computer Science Graduate · Jamia Hamdard, New Delhi
+### 🎓 Computer Science Graduate
 ### 💼 Open to Work — Full Stack Developer · DevOps Roles
-### 📍 New Delhi, India
+### 📍 India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Shaad-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohammad-shaad-672334204)
 [![GitHub](https://img.shields.io/badge/GitHub-Mr--SHAAD-181717?style=for-the-badge&logo=github)](https://github.com/Mr-SHAAD)
